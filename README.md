@@ -1,0 +1,1 @@
+This is Melinda's first git project!
